@@ -87,9 +87,3 @@ Feel free to contribute by forking the repository and submitting a pull request.
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Customization:
-- Replace `"https://github.com/yourusername/rag-based-tutor.git"` with your actual GitHub repository link.
-- Customize the sections based on any additional features or specific configurations you might add.
-
-Let me know if you'd like any adjustments or additions to the `README.md`!
