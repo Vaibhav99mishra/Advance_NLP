@@ -1,6 +1,3 @@
-Here’s a basic `README.md` template for your **RAG-based Tutor** project. You can customize it further as needed before uploading it to GitHub:
-
----
 
 # RAG-based Tutor: NLP Concepts from Jurafsky & Martin’s Speech & Language Processing
 
